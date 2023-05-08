@@ -1,0 +1,4 @@
+venv
+*.html
+.idea
+**/_trial_temp*
